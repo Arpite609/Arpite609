@@ -6,6 +6,6 @@
 
 - 🔭 I’m currently working on SW-360_proj
 - 🌱 I’m currently learning Next-JS
-- 👯 I’m looking to collaborate on SW-360, which is a we-based software manager
+- 👯 I’m looking to collaborate on SW-360, which is a web-based software manager
 - 🤔 I’m looking for help with Docker and Python
 - ⚡ Fun fact: I enjoy coding 😉😄
